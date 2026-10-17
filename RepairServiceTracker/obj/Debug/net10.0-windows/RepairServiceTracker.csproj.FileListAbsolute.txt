@@ -1,0 +1,14 @@
+D:\Downloads\RepairServiceTracker\bin\Debug\net10.0-windows\RepairServiceTracker.exe
+D:\Downloads\RepairServiceTracker\bin\Debug\net10.0-windows\RepairServiceTracker.deps.json
+D:\Downloads\RepairServiceTracker\bin\Debug\net10.0-windows\RepairServiceTracker.runtimeconfig.json
+D:\Downloads\RepairServiceTracker\bin\Debug\net10.0-windows\RepairServiceTracker.dll
+D:\Downloads\RepairServiceTracker\bin\Debug\net10.0-windows\RepairServiceTracker.pdb
+D:\Downloads\RepairServiceTracker\obj\Debug\net10.0-windows\RepairServiceTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\RepairServiceTracker\obj\Debug\net10.0-windows\RepairServiceTracker.AssemblyInfoInputs.cache
+D:\Downloads\RepairServiceTracker\obj\Debug\net10.0-windows\RepairServiceTracker.AssemblyInfo.cs
+D:\Downloads\RepairServiceTracker\obj\Debug\net10.0-windows\RepairServiceTracker.csproj.CoreCompileInputs.cache
+D:\Downloads\RepairServiceTracker\obj\Debug\net10.0-windows\RepairServiceTracker.dll
+D:\Downloads\RepairServiceTracker\obj\Debug\net10.0-windows\refint\RepairServiceTracker.dll
+D:\Downloads\RepairServiceTracker\obj\Debug\net10.0-windows\RepairServiceTracker.pdb
+D:\Downloads\RepairServiceTracker\obj\Debug\net10.0-windows\RepairServiceTracker.genruntimeconfig.cache
+D:\Downloads\RepairServiceTracker\obj\Debug\net10.0-windows\ref\RepairServiceTracker.dll
