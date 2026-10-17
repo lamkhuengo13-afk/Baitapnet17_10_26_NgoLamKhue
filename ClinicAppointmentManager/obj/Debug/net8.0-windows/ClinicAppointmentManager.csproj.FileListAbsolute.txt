@@ -1,0 +1,14 @@
+D:\Downloads\ClinicAppointmentManager\obj\Debug\net8.0-windows\ClinicAppointmentManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\ClinicAppointmentManager\obj\Debug\net8.0-windows\ClinicAppointmentManager.AssemblyInfoInputs.cache
+D:\Downloads\ClinicAppointmentManager\obj\Debug\net8.0-windows\ClinicAppointmentManager.AssemblyInfo.cs
+D:\Downloads\ClinicAppointmentManager\obj\Debug\net8.0-windows\ClinicAppointmentManager.csproj.CoreCompileInputs.cache
+D:\Downloads\ClinicAppointmentManager\bin\Debug\net8.0-windows\ClinicAppointmentManager.exe
+D:\Downloads\ClinicAppointmentManager\bin\Debug\net8.0-windows\ClinicAppointmentManager.deps.json
+D:\Downloads\ClinicAppointmentManager\bin\Debug\net8.0-windows\ClinicAppointmentManager.runtimeconfig.json
+D:\Downloads\ClinicAppointmentManager\bin\Debug\net8.0-windows\ClinicAppointmentManager.dll
+D:\Downloads\ClinicAppointmentManager\bin\Debug\net8.0-windows\ClinicAppointmentManager.pdb
+D:\Downloads\ClinicAppointmentManager\obj\Debug\net8.0-windows\ClinicAppointmentManager.dll
+D:\Downloads\ClinicAppointmentManager\obj\Debug\net8.0-windows\refint\ClinicAppointmentManager.dll
+D:\Downloads\ClinicAppointmentManager\obj\Debug\net8.0-windows\ClinicAppointmentManager.pdb
+D:\Downloads\ClinicAppointmentManager\obj\Debug\net8.0-windows\ClinicAppointmentManager.genruntimeconfig.cache
+D:\Downloads\ClinicAppointmentManager\obj\Debug\net8.0-windows\ref\ClinicAppointmentManager.dll
